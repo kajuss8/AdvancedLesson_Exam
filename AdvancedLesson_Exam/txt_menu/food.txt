@@ -1,0 +1,5 @@
+﻿1 Cezario_salotos 3.99
+2 Kiaulienos_sprandine 5.00
+3 Sviezios_salotos 1.50
+4 Lasisa 5.00
+5 keptos_krevetes 7.99
